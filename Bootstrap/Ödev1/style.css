@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+    white-space:nowrap;
+}
+h4 {
+    white-space:nowrap;
+}
+
+
+nav h4 {
+    display: inline;
+}
+
+
+nav li {
+
+    list-style: none;
+}
+nav {
+
+    align-items: center;
+    gap: 1rem;
+    padding: .5rem;
+}
+
+a:hover {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+ul  {
+    display: inline-block;
+    text-align: left;
+}
+
+img {
+    object-fit: contain;
+    height: 400px;
+}
+
+
+
+@media screen {
+    
+}
